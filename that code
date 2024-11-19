@@ -124,9 +124,10 @@
 </head>
 <body>
     <!-- Блок с изображением -->
-     <div class="image-container">
-        <img src="https://cloud.mail.ru/public/QFzR/QrU5scYPr" alt="Sneakers">
-    </div>
+    <div class="image-container">
+        <img src="images/zalupa.jpg" alt="Sneakers">
+</div>
+
     <!-- Основной контент -->
     <div class="content">
         <div class="title">ORIGI.UZ</div>
